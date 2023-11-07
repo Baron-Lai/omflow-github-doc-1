@@ -2,8 +2,7 @@
 
 **OMFLOW 使用手冊**
 
-![](media/image1.jpeg){width="6.291666666666667in"
-height="2.0729166666666665in"}
+![image](https://github.com/Baron-Lai/omflow-github-doc-1/blob/main/%E5%AE%89%E8%A3%9D%E9%A1%9E%E5%9E%8BServer.jpg)
 
 # 目錄 {#目錄 .unnumbered}
 
