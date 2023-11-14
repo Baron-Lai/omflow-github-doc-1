@@ -1,5 +1,31 @@
 # OMFLOW概觀
 
+{% hint style="info" %}
+**Info hints** are great for showing general information, or providing tips and tricks.
+{% endhint %}
+
+{% hint style="success" %}
+**Success hints** are good for showing positive actions or achievements.
+{% endhint %}
+
+{% hint style="warning" %}
+**Warning hints** are good for showing important information or non-critical warnings.
+{% endhint %}
+
+{% hint style="danger" %}
+**Danger hints** are good for highlighting destructive actions or raising attention to critical information.
+{% endhint %}
+
+{% hint style="info" %}
+### This is a heading
+
+This is a line
+
+This is an inline <img src=".gitbook/assets/notification.png" alt="" data-size="line"> image
+
+This is a second <mark style="color:orange;background-color:purple;">line</mark>
+{% endhint %}
+
 OMFLOW 是一個相當泛用的流程引擎，你可以隨意的設計表單讓人填寫並定義處理程序，也可以幫你處理資料流和自動化命令。
 
 OMFLOW 分為 Server 以及 Collector，Server的角色為資料中心，負責收集和儲存數據以及流程執行。
